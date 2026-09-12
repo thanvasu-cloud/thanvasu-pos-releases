@@ -15,6 +15,6 @@
 
 Dowload file .EXE สำหรับ window หรือ APK สำหรับแอนดรอย
 
-สามารถโหลดไฟล์เก็บไว้เอาไปติดตั้งในร้านอื่นได้เลยแค่เปลี่ยน chanel ในไฟล์ .txt ให้ตรงกันกับใน workflow
+สามารถโหลดไฟล์เก็บไว้เอาไปติดตั้งในร้านอื่นได้เลยแค่เปลี่ยน chanel กดที่เลข version ค้างแล้วจะขึ้น popup ให้แก้ชาแนล ให้ตรงกันกับใน workflow
 ดูชาแนลอื่นๆได้ที่ 
 https://github.com/thanvasu-cloud/thanvasu-pos-releases/releases
